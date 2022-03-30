@@ -9,6 +9,6 @@ Espero que gostem!! :)
 
 Editor de codigo usado: Jupyter Notebook
 
-Edit1 - Esqueci de colocar a biblioteca "requests" para o download no editor de cogigo.
+Edit1 - Esqueci de colocar a biblioteca "requests" para o download no editor de codigo.
 
 Edit2- Consegui criar um arquivo do codigo no VsCode e vou anexa-lo tambem, caso fique melhor do que o Jupyter.
